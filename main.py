@@ -4,7 +4,7 @@ import win32com.client   # <-- replaced pyttsx3
 import musicLibrary
 import requests
 from groq import Groq
-groq_client = Groq(api_key="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")  # <-- Groq API key
+groq_client = Groq(api_key="your_api_key")  # <-- Groq API key
 
 # pip install pocketsphinx
 
